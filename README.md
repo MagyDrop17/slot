@@ -1,0 +1,1 @@
+Rust Pirots 3 simulation SLOT for testing and development purposes.
